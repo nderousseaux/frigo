@@ -1,0 +1,98 @@
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Frigo.csprojAssemblyReference.cache
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BtnCat.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAccueil.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.GenerateResource.cache
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.CoreCompileInputs.cache
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\baseFrigo1.mdb
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\baseFrigo1.mdb
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Frigo.csprojAssemblyReference.cache
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BtnCat.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAccueil.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.GenerateResource.cache
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.CoreCompileInputs.cache
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\typeRecette.frmChoixCui.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Recettes.ficheRecette.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Recettes.frmRecettes.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Recettes.ficheRecette.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Recettes.frmRecettes.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\typeRecette.frmChoixCui.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\avis.frmAvis.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\FormEtape_Etape.Affichage.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\FormEtape_Etape.frmEtape.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\avis.frmA.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Form4_recette.AffRecette.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Form4_recette.Entete.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Form4_recette.frmRec.resources
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\itextsharp.xtra.dll
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Nathanaël\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.CopyComplete
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\FormEtape_Etape.Affichage.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Form4_recette.AffRecette.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Form4_recette.Entete.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Form4_recette.frmRec.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\FormEtape_Etape.frmEtape.resources
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\itextsharp.pdfa.dll
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\itextsharp.xtra.dll
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\natha\Google Drive\D21_projet\Fichier projet\Final rendu\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.CopyComplete
+E:\Code\WindowsFormsApp1\bin\Debug\baseFrigo1.mdb
+E:\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Code\WindowsFormsApp1\bin\Debug\itextsharp.xml
+E:\Code\WindowsFormsApp1\obj\Debug\Frigo.csprojAssemblyReference.cache
+E:\Code\WindowsFormsApp1\obj\Debug\FormEtape_Etape.Affichage.resources
+E:\Code\WindowsFormsApp1\obj\Debug\Form4_recette.AffRecette.resources
+E:\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BtnCat.resources
+E:\Code\WindowsFormsApp1\obj\Debug\Form4_recette.Entete.resources
+E:\Code\WindowsFormsApp1\obj\Debug\Recettes.ficheRecette.resources
+E:\Code\WindowsFormsApp1\obj\Debug\Form4_recette.frmRec.resources
+E:\Code\WindowsFormsApp1\obj\Debug\avis.frmAvis.resources
+E:\Code\WindowsFormsApp1\obj\Debug\Recettes.frmRecettes.resources
+E:\Code\WindowsFormsApp1\obj\Debug\typeRecette.frmChoixCui.resources
+E:\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAccueil.resources
+E:\Code\WindowsFormsApp1\obj\Debug\FormEtape_Etape.frmEtape.resources
+E:\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.GenerateResource.cache
+E:\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.CoreCompileInputs.cache
+E:\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.CopyComplete
+E:\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\bin\Debug\baseFrigo1.mdb
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\bin\Debug\itextsharp.xml
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\Frigo.csprojAssemblyReference.cache
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\FormEtape_Etape.Affichage.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\Form4_recette.AffRecette.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BtnCat.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\Form4_recette.Entete.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\Recettes.ficheRecette.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\Form4_recette.frmRec.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\avis.frmAvis.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\Recettes.frmRecettes.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\typeRecette.frmChoixCui.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAccueil.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\FormEtape_Etape.frmEtape.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.GenerateResource.cache
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.CoreCompileInputs.cache
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\Frigo.csproj.CopyComplete
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\Projet\Rendu\Projet_recette_Gr6_REHM_HERR_DEROUSSEAUX\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

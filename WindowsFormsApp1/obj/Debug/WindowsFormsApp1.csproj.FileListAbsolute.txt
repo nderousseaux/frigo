@@ -1,0 +1,11 @@
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAccueil.resources
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Emilie\Desktop\DUT\S2\D21\Fichier projet\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BtnCat.resources
